@@ -41,6 +41,7 @@ body {
   line-height: 120%;
   margin-bottom: 1rem;
   letter-spacing: 0;
+  line-height: 1.2;
 }
 
 .card-paragraph {
@@ -50,4 +51,5 @@ body {
   margin-bottom: 2.5rem;
   color: hsl(216, 15%, 48%);
   letter-spacing: 0.2px;
+  line-height: 1.4;
 }
